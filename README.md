@@ -234,11 +234,7 @@ The final dashboard provides an executive-level overview of business performance
 
 # 📊 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
-
-```text
-Dashboard.png
-```
+![Power BI Dashboard](Dashboard.png)
 
 ---
 
