@@ -367,10 +367,6 @@ Through this project, I learned:
 
 Aspiring Data Analyst
 
-### Connect with me
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
 - Email: *(Add your Email)*
 
 ---
