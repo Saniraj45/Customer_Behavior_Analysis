@@ -367,7 +367,7 @@ Through this project, I learned:
 
 Aspiring Data Analyst
 
-- Email: *(Add your Email)*
+- Email: *sunniraj4511@gmail.com*
 
 ---
 
